@@ -27,15 +27,15 @@
 > 🧃 Fun fact: I run Fedora 41. If you say "Why not Ubuntu?", I say "Why not uninstall your opinion?"
 
 ---
-
 ## ✨ Who even is Chloy?
 
-> 🌙 Code poet by day, star-gazer with purpose by night.
+> 🌙 Code poet by day, star-gazer with purpose by night.  
+>  
 > 💻 Forever working on cool things I *can’t disclose yet*. Mysterious? Always.  
+>  
 > 🎸 Once played at a fest, now plays with datasets.  
-> 🙏 Jesus-first. No cap.  
-
----
+>  
+> 🙏 Jesus-first. No cap.
 
 ## 📫 Contact Me
 
