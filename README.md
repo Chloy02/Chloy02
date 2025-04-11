@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
 </p>
 
+<p align="center">
+ <i>Faith-rooted. Starstruck. Python-powered.</i>
+</p>
+
 ---
 
 ## 🛠️ Tech Arsenal  
@@ -26,7 +30,7 @@
 
 ## ✨ Who even is Chloy?
 
-> 🌙 Code poet by day, existential overthinker by night.  
+> 🌙 Code poet by day, star-gazer with purpose by night.
 > 💻 Forever working on cool things I *can’t disclose yet*. Mysterious? Always.  
 > 🎸 Once played at a fest, now plays with datasets.  
 > 🙏 Jesus-first. No cap.  
@@ -46,7 +50,7 @@
 ## 🌈 Fun Facts
 
 - 🧠 I ask big questions: *Why are we here?* and *Why is my code not compiling?*  
-- 😇 Dev by day, worshipper by always.  
+- 🌌 My heart belongs to the stars, even when my hands are on the keyboard.
 - 🤍 I treat my best friends like royalty, because they *are*.  
 - 👾 I use Fedora. Yes, I like pain.  
 
