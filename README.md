@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Arsenal  
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Fedora%2041-%231C1C1C?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Fedora%2042-%231C1C1C?style=for-the-badge&logo=fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-JetpackCompose-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-Astropy|Sklearn-%23121011?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-AestheticApps-%233DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Git-GitHub%20Addict-%23121011?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-> 🧃 Fun fact: I run Fedora 41. If you say "Why not Ubuntu?", I say "Why not uninstall your opinion?"
+> 🧃 Fun fact: I run Fedora. If you say "Why not Ubuntu?", I say "Why not uninstall your opinion?"
 
 ---
 ## ✨ Who even is Chloy?
