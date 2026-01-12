@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I’m <span style="color:#FBBF24">Chloy</span> 👋</h1>
+<h1 align="center">✨ Hey there, I'm <span style="color:#FBBF24">Chloy</span> 👋</h1>
 
 <p align="center">
 🌌 Physics grad turned code alchemist | Building galaxies in Python, Rust & Stardust  
@@ -37,7 +37,7 @@
 
 > 🌙 **Code poet by day, star-gazer with purpose by night.**
 >  
-> 💻 Forever working on cool things I *can’t disclose yet*. Mysterious? Always.  
+> 💻 Forever working on cool things I *can't disclose yet*. Mysterious? Always.  
 >  
 > 🎸 Once played at a fest, now plays with MERN stacks and low-level systems.  
 >  
@@ -46,9 +46,11 @@
 ## 📊 The Lab 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chloy02&show_icons=true&theme=tokyonight" alt="Chloy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chloy02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Chloy's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloy02&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloy02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chloy02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contact Me
@@ -75,6 +77,6 @@
 </p>
 
 <p align="center"><i>
-“Some of us don’t just look at the stars—we train machines to understand them.  
-Faith in God, fascination for galaxies, and fingers that type in Python, Rust, and JavaScript.”  
+"Some of us don't just look at the stars—we train machines to understand them.  
+Faith in God, fascination for galaxies, and fingers that type in Python, Rust, and JavaScript."  
 </i></p>
