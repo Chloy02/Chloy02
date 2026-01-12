@@ -43,14 +43,10 @@
 >  
 > 🙏 **Jesus-first. No cap.**
 
-## 📊 The Lab 
+## 📊 The Lab
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chloy02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Chloy's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloy02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chloy02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chloy02&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contact Me
